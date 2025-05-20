@@ -5,7 +5,7 @@
 🌟 **Explore!** 🌟  
 - **[Seno/Cosseno (MP4)](sincos_animation.mp4)**: Ondas \(\sin(x+t)\) e \(\cos(x+t)\) dançando! ([GIF](sincos_animation.gif))  
 - **[Black-Scholes (MP4)](black_scholes_animation.mp4)**: Preço da call com \(\sigma\) variável, direto da minha pesquisa em risco financeiro. ([GIF](black_scholes_animation.gif))  
-- **[Transformada de Fourier (MP4)](fourier_animation.mp4)**: Ondas decompostas em frequências, pulsando com estilo! ([GIF](fourier_animation.gif))  
+- **[Transformada de Fourier (MP4)](fourier_animation_fixed_v2.mp4)**: Ondas decompostas em frequências, pulsando com estilo! ([GIF](fourier_animation_fixed_v2.gif))  
 - **[Transformada de Laplace (MP4)](laplace_animation.mp4)**: Decaimento exponencial no domínio \(s\), pra finanças e controle! ([GIF](laplace_animation.gif))  
 - **[Teoria do Caos (MP4)](chaos_animation_grid.mp4)**:  Mapa Logístico com grid, indo pro caos! ([GIF](chaos_animation_grid.gif))  
 - **[Partículas Caóticas (MP4)](lorenz_particles.mp4)**: Duas partículas no Atrator de Lorenz, como estrelas fugazes no caos! ([GIF](lorenz_particles.gif))  

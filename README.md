@@ -10,7 +10,9 @@
 - **[Teoria do Caos (MP4)](chaos_animation_grid.mp4)**:  Mapa Logístico com grid, indo pro caos! ([GIF](chaos_animation_grid.gif))  
 - **[Partículas Caóticas (MP4)](lorenz_particles.mp4)**: Duas partículas no Atrator de Lorenz, como estrelas fugazes no caos! ([GIF](lorenz_particles.gif))  
 - **[Black-Scholes Interativo](black_scholes_interactive.mp4)**: Gráfico com slider pra \(\sigma\). ([GIF](black_scholes_interactive.gif)) 
-- **[heston_dynamics](heston_dynamics.mp4) : Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈 ([GIF](heston_dynamics.gif)) 
+- **[Heston_dynamics](heston_dynamics.mp4) : Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈 ([GIF](heston_dynamics.gif))
+- **[Duffing_sea_wave](duffing_sea_wave.mp4): Duffing sea wave!  [GIF](duffing_sea_wave.gif)
+- **[Euler_final_dance](euler_final_dance.mp4): Dança de EULER [GIF](euler_final_dance.gif)
 
 ## Como Usar
 - Clique nos MP4s pra assistir no GitHub.

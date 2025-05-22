@@ -9,9 +9,8 @@
 - **[Transformada de Laplace (MP4)](laplace_animation_fixed.mp4)**: Decaimento exponencial no domínio \(s\), pra finanças e controle! ([GIF](laplace_animation_fixed.gif))  
 - **[Teoria do Caos (MP4)](chaos_animation_grid.mp4)**:  Mapa Logístico com grid, indo pro caos! ([GIF](chaos_animation_grid.gif))  
 - **[Partículas Caóticas (MP4)](lorenz_particles.mp4)**: Duas partículas no Atrator de Lorenz, como estrelas fugazes no caos! ([GIF](lorenz_particles.gif))  
-- **[Black-Scholes Interativo](black_scholes_interactive.gif)**: Gráfico com slider pra \(\sigma\).
-Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈
-- **[Heston Dynamics](heston_model/heston_dynamics.gif)
+- **[Black-Scholes Interativo](black_scholes_interactive.mp4)**: Gráfico com slider pra \(\sigma\). ([GIF](black_scholes_interactive.gif)) 
+- **[heston_model/heston_dynamics](heston_model/heston_dynamics.mp4) : Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈 ([GIF](heston_model/heston_dynamics.gif)) 
 
 ## Como Usar
 - Clique nos MP4s pra assistir no GitHub.

@@ -13,6 +13,7 @@
 - **[Heston_dynamics](heston_dynamics.mp4) : Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈 ([GIF](heston_dynamics.gif))
 - **[Duffing_sea_wave](duffing_sea_wave.mp4): Duffing sea wave!  [GIF](duffing_sea_wave.gif)
 - **[Euler_final_dance](euler_final_dance.mp4): Dança de EULER [GIF](euler_final_dance.gif)
+- **[Black_scholes_loki](black_scholes_loki.mp4): Loki Rei do Wall Street 😺 ruled by Loki, Rei do Trade!📈 [GIF](black_scholes_loki.gif)
 
 ## Como Usar
 - Clique nos MP4s pra assistir no GitHub.

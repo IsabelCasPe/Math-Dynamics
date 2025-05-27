@@ -15,6 +15,9 @@
 - **[Euler_final_dance](euler_final_dance.mp4): Dança de EULER [GIF](euler_final_dance.gif)
 - **[Black_scholes_loki](black_scholes_loki.mp4): Loki Rei do Wall Street 😺 ruled by Loki, Rei do Trade!📈 [GIF](black_scholes_loki.gif)
 - [Julia_infinite](julia_infinite.mp4): Conjunto de Julia Animation [GIF](julia_infinite.gif)
+- # Math-Dynamics
+Caos e sistemas dinâmicos! 🌊
+- [Atractor de Lorenz: Caos em Espiral](lorenz.gif): [Código](lorenz.py) | [Gif](lorenz.gif)
 
 ## Como Usar
 - Clique nos MP4s pra assistir no GitHub.

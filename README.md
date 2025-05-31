@@ -117,7 +117,8 @@ Visualization of numerical solutions using the Euler method for differential equ
 ### Linear Quadratic Regulator (LQR)
 Optimal control visualization for a dynamic system, minimizing a quadratic cost.  
 - **Specifications**: Matplotlib animation of state trajectories.  
-- **Visualization**: [loki_vs_rival_com_equacao.gif](loki_vs_rival_com_equacao.gif)  
+- **Visualization**: [loki_vs_rival_com_equacao.gif](loki_vs_rival_com_equacao.gif)
+- **Documentation**: [LQRLoki.pdf](LQRLoki.pdf) 
 - **Description**: Control law derived from Riccati equation solutions.
 
 ## Usage

@@ -102,7 +102,8 @@ Visualization of exponential decay in the \(s\)-domain, applied to control and f
 ### Julia Set
 Animation of the Julia set, exploring complex dynamics in the complex plane.  
 - **Specifications**: Iterations in complex plane; Matplotlib animation.  
-- **Visualization**: [julia_infinite.gif](julia_infinite.gif)  
+- **Visualization**: [julia_infinite.gif](julia_infinite.gif)
+- **Documentation**: [JuliaDynamics.pdf](JuliaDynamics.pdf) 
 - **Description**: Fractal boundaries defined by \(z_{n+1} = z_n^2 + c\).
 
 ## Numerical Methods

@@ -55,7 +55,8 @@ Discrete chaotic system generating dense orbits in a confined region.
 ### Rössler Attractor
 Continuous chaotic system with dense spiral trajectories.  
 - **Specifications**: `a=0.2`, `b=0.2`, `c=7.0`; 20,000 points; `odeint` integration.  
-- **Visualization**: [rossler.gif](rossler.gif), [rossler_2_spiral.gif](rossler_2_spiral.gif)  
+- **Visualization**: [rossler.gif](rossler.gif), [rossler_2_spiral.gif](rossler_2_spiral.gif)
+- **Documentation**: [Rossler1.pdf](Rossler1.pdf)
 - **Description**: System defined by \(\dot{x} = -y-z\), \(\dot{y} = x + a y\), \(\dot{z} = b + z(x-c)\).
 
 ### Quasiperiodic Toro

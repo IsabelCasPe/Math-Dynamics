@@ -66,6 +66,11 @@ Three-dimensional quasiperiodic flow on a torus, exhibiting non-repeating orbits
 - **Documentation**: [quaseperiodicotoro.pdf](quaseperiodicotoro.pdf)  
 - **Description**: Trajectories on a toroidal manifold.
 
+- **Double Pendulum**: Chaotic dynamics simulation.
+- **GIF**: [pendulo.gif](pendulo.gif)
+- **Documentation**: [Penduloduplo.pdf](Penduloduplo.pdf)
+- **Code**: [pendulo_duplo.py](PenduloDuplo/pendulo_duplo.py)
+
 ## Financial Models
 ### Black-Scholes Model
 Visualization of call option pricing under the Black-Scholes model with varying volatility \(\sigma\).  

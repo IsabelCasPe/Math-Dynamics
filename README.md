@@ -1,26 +1,132 @@
 # Math-Dynamics
+A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics.
 
- Animações dinâmicas de funções matemáticas e finanças, por **Ana Isabel Castillo**, doutoranda em Matemática Aplicada. 😎
+## Oscillatory Systems
+### Sine and Cosine Oscillations
+Visualization of harmonic functions \(\sin(x+t)\) and \(\cos(x+t)\), demonstrating periodic motion.  
+- **Specifications**: 10,000 points; Matplotlib animation.  
+- **Visualization**: [sincos_animation.gif](sincos_animation.gif)  
+- **Description**: Parametric oscillations in two dimensions.
 
-🌟 **Explore!** 🌟  
-- **[Seno/Cosseno (MP4)](sincos_animation.mp4)**: Ondas \(\sin(x+t)\) e \(\cos(x+t)\) dançando! ([GIF](sincos_animation.gif))  
-- **[Black-Scholes (MP4)](black_scholes_animation.mp4)**: Preço da call com \(\sigma\) variável, direto da minha pesquisa em risco financeiro. ([GIF](black_scholes_animation.gif))  
-- **[Transformada de Fourier (MP4)](fourier_animation_fixed_v2.mp4)**: Ondas decompostas em frequências, pulsando com estilo! ([GIF](fourier_animation_fixed_v2.gif))  
-- **[Transformada de Laplace (MP4)](laplace_animation_fixed.mp4)**: Decaimento exponencial no domínio \(s\), pra finanças e controle! ([GIF](laplace_animation_fixed.gif))  
-- **[Teoria do Caos (MP4)](chaos_animation_grid.mp4)**:  Mapa Logístico com grid, indo pro caos! ([GIF](chaos_animation_grid.gif))  
-- **[Partículas Caóticas (MP4)](lorenz_particles.mp4)**: Duas partículas no Atrator de Lorenz, como estrelas fugazes no caos! ([GIF](lorenz_particles.gif))  
-- **[Black-Scholes Interativo](black_scholes_interactive.mp4)**: Gráfico com slider pra \(\sigma\). ([GIF](black_scholes_interactive.gif)) 
-- **[Heston_dynamics](heston_dynamics.mp4) : Simulating price and volatility dynamics with the Heston stochastic model. Watch the dance of finance! 📈 ([GIF](heston_dynamics.gif))
-- **[Duffing_sea_wave](duffing_sea_wave.mp4): Duffing sea wave!  [GIF](duffing_sea_wave.gif)
-- **[Euler_final_dance](euler_final_dance.mp4): Dança de EULER [GIF](euler_final_dance.gif)
-- **[Black_scholes_loki](black_scholes_loki.mp4): Loki Rei do Wall Street 😺 ruled by Loki, Rei do Trade!📈 [GIF](black_scholes_loki.gif)
-- [Julia_infinite](julia_infinite.mp4): Conjunto de Julia Animation [GIF](julia_infinite.gif)
-- [Atractor de Lorenz: Caos em Espiral](lorenz.gif): [Código](lorenz.py) | [Gif](lorenz.gif)
+### Lissajous Curves
+Parametric oscillations generating Lissajous curves, forming harmonic patterns.  
+- **Specifications**: Frequencies `a=3`, `b=2`, phase `phi=π/2`; 10,000 points; Matplotlib animation.  
+- **Visualization**: [lissajous_dancers.gif](lissajous_dancers.gif)  
+- **Description**: Trajectories defined by \(x = \sin(a t + \phi)\), \(y = \sin(b t)\).
 
-## Como Usar
-- Clique nos MP4s pra assistir no GitHub.
-- Abra os GIFs em outra aba pra loops.
-- Interaja com o HTML no navegador.
-- Códigos? Só pros VIPs que pesquisam de verdade! ;) 
+### Heart-Shaped Parametric Dynamics
+Curves forming heart-shaped orbits, inspired by parametric equations.  
+- **Specifications**: Parametric equations with 10,000 points; Matplotlib animation.  
+- **Visualization**: [hearts_salsa_cosmica.gif](hearts_salsa_cosmica.gif)  
+- **Description**: Oscillatory patterns evoking dynamic harmony.
 
-*Licença*: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+### Duffing Oscillator
+Nonlinear oscillator exhibiting complex behavior, visualized as a sea wave.  
+- **Specifications**: Parameters for chaotic regime; Matplotlib animation.  
+- **Visualization**: [duffing_sea_wave.gif](duffing_sea_wave.gif)  
+- **Description**: Solutions to the Duffing equation with nonlinear restoring force.
+
+## Chaotic Systems
+### Logistic Map
+Visualization of the logistic map, transitioning from periodicity to chaos.  
+- **Specifications**: Parameter \(r\) varying across grid; Matplotlib animation.  
+- **Visualization**: [chaos_animation_grid.gif](chaos_animation_grid.gif)  
+- **Description**: Discrete iterations \(x_{n+1} = r x_n (1 - x_n)\).
+
+### Lorenz Attractor
+Trajectories of the Lorenz system, a continuous chaotic attractor with spiral dynamics.  
+- **Specifications**: Parameters \(\sigma=10\), \(\rho=28\), \(\beta=8/3\); 10,000 points; `odeint` integration.  
+- **Code**: [lorenz.py](lorenz.py)  
+- **Visualization**: [lorenz.gif](lorenz.gif)  
+- **Description**: System defined by \(\dot{x} = \sigma(y-x)\), \(\dot{y} = x(\rho-z)-y\), \(\dot{z} = xy-\beta z\).
+
+### Lorenz Particles
+Two particles evolving within the Lorenz attractor, highlighting chaotic divergence.  
+- **Specifications**: Initial conditions offset by 0.01; Matplotlib animation.  
+- **Visualization**: [lorenz_particles.gif](lorenz_particles.gif)  
+- **Description**: Sensitivity to initial conditions in chaotic systems.
+
+### Hénon Map
+Discrete chaotic system generating dense orbits in a confined region.  
+- **Specifications**: `a=1.4`, `b=0.3`; 10,000 points; Matplotlib scatter plot.  
+- **Visualization**: [henon_salsa_galactica.gif](henon_salsa_galactica.gif)  
+- **Description**: Iterations \(x_{n+1} = 1 - a x_n^2 + y_n\), \(y_{n+1} = b x_n\).
+
+### Rössler Attractor
+Continuous chaotic system with dense spiral trajectories.  
+- **Specifications**: `a=0.2`, `b=0.2`, `c=7.0`; 20,000 points; `odeint` integration.  
+- **Visualization**: [rossler.gif](rossler.gif), [rossler_2_spiral.gif](rossler_2_spiral.gif)  
+- **Description**: System defined by \(\dot{x} = -y-z\), \(\dot{y} = x + a y\), \(\dot{z} = b + z(x-c)\).
+
+### Quasiperiodic Toro
+Three-dimensional quasiperiodic flow on a torus, exhibiting non-repeating orbits.  
+- **Specifications**: Incommensurate frequencies; Matplotlib 3D animation.  
+- **Visualization**: [quasiperiodic_salsa_celeste.gif](quasiperiodic_salsa_celeste.gif)  
+- **Documentation**: [quaseperiodicotoro.pdf](quaseperiodicotoro.pdf)  
+- **Description**: Trajectories on a toroidal manifold.
+
+## Financial Models
+### Black-Scholes Model
+Visualization of call option pricing under the Black-Scholes model with varying volatility \(\sigma\).  
+- **Specifications**: Matplotlib animation with dynamic \(\sigma\).  
+- **Visualization**: [black_scholes_animation.gif](black_scholes_animation.gif)  
+- **Description**: Solution to the Black-Scholes PDE for option pricing.
+
+### Black-Scholes Interactive
+Interactive visualization of Black-Scholes pricing with adjustable volatility.  
+- **Specifications**: Slider for \(\sigma\); Matplotlib interactive plot.  
+- **Visualization**: [black_scholes_interactive.gif](black_scholes_interactive.gif)  
+- **Description**: Dynamic exploration of option pricing.
+
+### Heston Model
+Stochastic volatility model simulating price and volatility dynamics.  
+- **Specifications**: Monte Carlo simulation; Matplotlib animation.  
+- **Visualization**: [heston_dynamics.gif](heston_dynamics.gif)  
+- **Description**: Coupled stochastic differential equations for asset price and variance.
+
+## Transform Methods
+### Fourier Transform
+Decomposition of signals into frequency components via the Fourier transform.  
+- **Specifications**: Matplotlib animation of frequency summation.  
+- **Visualization**: [fourier_animation_fixed_v2.gif](fourier_animation_fixed_v2.gif)  
+- **Description**: Representation of signals as sums of sinusoids.
+
+### Laplace Transform
+Visualization of exponential decay in the \(s\)-domain, applied to control and finance.  
+- **Specifications**: Matplotlib animation of transform dynamics.  
+- **Visualization**: [laplace_animation_fixed.gif](laplace_animation_fixed.gif)  
+- **Description**: Transform mapping time-domain signals to the complex plane.
+
+## Fractal Systems
+### Julia Set
+Animation of the Julia set, exploring complex dynamics in the complex plane.  
+- **Specifications**: Iterations in complex plane; Matplotlib animation.  
+- **Visualization**: [julia_infinite.gif](julia_infinite.gif)  
+- **Description**: Fractal boundaries defined by \(z_{n+1} = z_n^2 + c\).
+
+## Numerical Methods
+### Euler Method
+Visualization of numerical solutions using the Euler method for differential equations.  
+- **Specifications**: Matplotlib animation of iterative steps.  
+- **Visualization**: [euler_final_dance.gif](euler_final_dance.gif)  
+- **Description**: Approximation of ODE solutions via discrete steps.
+
+## Optimal Control
+### Linear Quadratic Regulator (LQR)
+Optimal control visualization for a dynamic system, minimizing a quadratic cost.  
+- **Specifications**: Matplotlib animation of state trajectories.  
+- **Visualization**: [loki_vs_rival_com_equacao.gif](loki_vs_rival_com_equacao.gif)  
+- **Description**: Control law derived from Riccati equation solutions.
+
+## Usage
+- View GIFs for looped animations directly in the browser.
+- Source codes and additional documentation available upon request for academic purposes.
+- Visualizations are implemented in Python with Matplotlib and SciPy.
+
+## License
+© Ana Isabel Castillo, Math-Dynamics. Licensed under [CC BY-NC-ND 4.0](LICENSE.md).
+
+## Contributions
+Suggestions for new dynamic systems or visualization techniques are welcome. Contact the author for collaboration or additional materials.
+
+#MathDynamics #SistemasDinâmicos #ChaosTheory

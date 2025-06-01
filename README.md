@@ -52,6 +52,12 @@ Discrete chaotic system generating dense orbits in a confined region.
 - **Visualization**: [henon_salsa_galactica.gif](henon_salsa_galactica.gif)  
 - **Description**: Iterations \(x_{n+1} = 1 - a x_n^2 + y_n\), \(y_{n+1} = b x_n\).
 
+- **Hénon Map 3D**: Fractal chaos with two trajectories.
+  - **GIF**: [henon_salsa_fractal.gif](henon_salsa_fractal.gif)
+  - **Video**: [henon_salsa_fractal.mp4](henon_salsa_fractal.mp4)
+  - **Documentation**: [Henon2.pdf](Henon2.pdf)
+  - **Code**: [henon_salsa_fractal.py](henon_salsa_fractal.py)
+
 ### Rössler Attractor
 Continuous chaotic system with dense spiral trajectories.  
 - **Specifications**: `a=0.2`, `b=0.2`, `c=7.0`; 20,000 points; `odeint` integration.  

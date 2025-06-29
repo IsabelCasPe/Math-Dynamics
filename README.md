@@ -1,6 +1,17 @@
 # Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
+readme_conteudo = """
+# Schrödinger 3D – Math-Dynamics 🎥✨
+
+Interactive and artistic visualization of the 3D Schrödinger equation with a quasi-periodic potential, inspired by just 10 minutes of a lecture.
+This project blends science, art, and aesthetic sensitivity into a single dynamic flow.
+
+🔸 Included Files
+🎞️ schrodinger_3dv29.mp4: Full animation of a golden quantum particle dancing through the 3D quantum field. [schrodinger_3dv29.mp4](schrodinger_3dv29.mp4)
+
+📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A.pdf](Schrodinger3D2A.pdf)
+
 ## Oscillatory Systems
 ### Sine and Cosine Oscillations
 Visualization of harmonic functions \(\sin(x+t)\) and \(\cos(x+t)\), demonstrating periodic motion.  

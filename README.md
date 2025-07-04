@@ -1,6 +1,34 @@
 # Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
+# Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
+For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters 😛 Explore the chaos and beauty of *Finance Math*!
+
+## Chapter 2: Roots of Functions
+This section solves root-finding problems from Chapter 2 of Prof. Castilho's lecture notes, with Python implementations and visualizations.
+  - [Ex. 2.8](sincos_root.png)
+- **Python Codes**:
+  - `birthday_quantum_flower_v9.py`
+- **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
+- **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
+
+## Birthday Celebration: Quantum Flower of Life
+The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:
+- **Surface**: Defined by \( z = g \cdot p \cdot \sin(6\theta) \cos(3r) \), with organic growth \( g = \min(1.5, t/50) \cdot e^{-0.5 r^2} \) and pulsing petals \( p = 1.2 + 0.7 \sin(t/20) \).
+- **Root**: Solution to \( \sin(\cos(\sqrt{3}x)) = 0 \), with \( x \approx 0.9166 \), visualized as a pulsating *goldlove* point.
+- **Stars**: 50 white stars , with dynamic size and transparency, pulsing.
+- **Base**: Oscillating 3D base (*Sábana Gaussiana*) in *cosmicgray* , defined by \( z = 0.1 \sin(2\pi (x + y)/5 - t/20) \).
+- **Connection to QFE**: Inspired by the Anderson model and nonlinear dynamics in financial chaos (e.g., GOLL4.SA).
+
+The LaTeX presentation ([flordavida.pdf](flordavida.pdf)) provides a rigorous mathematical foundation.
+
+## Acknowledgments
+- Thanks to Prof. Castilho’s lecture notes for sparking inspiration.
+- To Loki, for throwing shade at the haters 😜 and winking at Artur Ávila 👀.
+- To the *Math-Dynamics* community for the vibrant support!
+
+© Ana Isabel Castillo & Loki, 2025
+
 # Schrödinger 3D – Math-Dynamics 🎥✨
 
 Interactive and artistic visualization of the 3D Schrödinger equation with a quasi-periodic potential, inspired by just 10 minutes of a lecture.

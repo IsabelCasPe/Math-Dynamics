@@ -1,6 +1,21 @@
 # Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
+# ⚡ Tesla 3D Electromagnetic Field – Visual Tribute
+
+> “Ontem(07/07/25), o algoritmo do YouTube me presenteou com uma entrevista reveladora sobre o gênio Nikola Tesla.  
+> Fiquei imersa… e as ideias fluíram como eletricidade no ar.  
+> Nasceu assim esta homenagem: uma faísca criativa que se acendeu, ecoando a visão de Tesla que iluminou o mundo.  
+> Sua ousadia me inspirou a transformar energia e frequência em arte visual.”  
+> — **Isabel 😎 – Math Dynamics✨**
+
+## 🎥 Projeto
+Este é um simulador 3D inspirado nas ideias revolucionárias de Nikola Tesla, capturando campos eletromagnéticos pulsantes com raios em zetas que sobem e descem como cones, evocando sua genialidade em corrente alternada e transmissão de energia sem fio. Criado com Python e Matplotlib, o projeto combina ciência e arte visual, incluindo uma espiral de vórtices e um tremor sutil na base para refletir a instabilidade criativa de Tesla.
+
+🎬 Veja a animação:  
+![Tesla 3D Animation](campo_eletromagnetico_tesla_3d_vibes.gif)  
+📄 Apresentação em PDF: [`NikolaTesla.pdf`](NikolaTesla.pdf)
+
 # Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters! ;) Explore the chaos and beauty of *Finance Math*!
 

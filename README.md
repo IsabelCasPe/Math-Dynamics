@@ -12,7 +12,8 @@ A collection of visualizations exploring the behavior of dynamic systems, chaoti
 ## 🎥 Projeto
 Este é um simulador 3D inspirado nas ideias revolucionárias de Nikola Tesla, capturando campos eletromagnéticos pulsantes com raios em zetas que sobem e descem como cones, evocando sua genialidade em corrente alternada e transmissão de energia sem fio. Criado com Python e Matplotlib, o projeto combina ciência e arte visual, incluindo uma espiral de vórtices e um tremor sutil na base para refletir a instabilidade criativa de Tesla.
 🎬 Veja a animação:  [Tesla 3D Animation](campo_eletromagnetico_tesla_3d_vibes.mp4)
-<video controls loop><source src="campo_eletromagnetico_tesla_3d_cone_slow.mp4" type="video/mp4"></video>    
+<video controls loop><source src="campo_eletromagnetico_tesla_3d_cone_slow.mp4" type="video/mp4"></video>  
+<video controls loop><source src="https://github.com/IsabelCasPe/Math-Dynamics/edit/main/campo_eletromagnetico_tesla_3d_cone_slow.mp4" type="video/mp4"></video>
 📄 Apresentação em PDF: [`NikolaTesla.pdf`](NikolaTesla.pdf)
 © 2025 – Projeto autoral de Ana Isabel C. – Math Dynamics  
 Todos os direitos reservados. Compartilhamento apenas com os devidos créditos. 😎

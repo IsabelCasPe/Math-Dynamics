@@ -7,7 +7,7 @@ A collection of visualizations exploring the behavior of dynamic systems, chaoti
 > I was captivated… and ideas flowed like electricity in the air.  
 > Thus, this tribute was born: a creative spark that ignited, echoing Tesla’s vision that lit up the world.  
 > His boldness inspired me to transform energy and frequency into visual art.”  
-> — **Isabel 😎 – Math Dynamics✨**
+> — **Isabel  – Math Dynamics✨**
 
 ## 🎥 Project
 This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturing pulsating electromagnetic fields with zeta-shaped rays rising and falling like cones, evoking his genius in alternating current and wireless energy transmission. Created with Python and Matplotlib, the project blends science and visual art, featuring a vortex spiral and a subtle base tremor to reflect Tesla’s creative instability.
@@ -16,8 +16,8 @@ This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturi
  
 📄 Presentation PDF: [`NikolaTesla.pdf`](NikolaTesla.pdf)  
 © 2025 – Original project by Ana Isabel C. – Math Dynamics  
-All rights reserved. Sharing only with proper credits. 😎 
-# git clone https://github.com/IsabelCasPe/Math-Dynamics.git
+All rights reserved. Sharing only with proper credits. 
+# Site: https://github.com/IsabelCasPe/Math-Dynamics.git
 
 # Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters! ;) Explore the chaos and beauty of *Finance Math*!

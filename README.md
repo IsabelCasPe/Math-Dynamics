@@ -13,6 +13,7 @@ A collection of visualizations exploring the behavior of dynamic systems, chaoti
 This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturing pulsating electromagnetic fields with zeta-shaped rays rising and falling like cones, evoking his genius in alternating current and wireless energy transmission. Created with Python and Matplotlib, the project blends science and visual art, featuring a vortex spiral and a subtle base tremor to reflect Tesla’s creative instability.
 
 🎬 Watch the animation:  [Tesla 3D Animation](campo_eletromagnetico_tesla_3d_vibes.mp4)  
+-![Tesla 3D Animation](campo_eletromagnetico_tesla.gif)
  
 📄 Presentation PDF: [`NikolaTesla.pdf`](NikolaTesla.pdf)  
 © 2025 – Original project by Ana Isabel C. – Math Dynamics  
@@ -51,9 +52,13 @@ This project blends science, art, and aesthetic sensitivity into a single dynami
 
 🔸 Included Files
 🎞️ schrodinger_3dv29.mp4: Full animation of a golden quantum particle dancing through the 3D quantum field. [schrodinger_3dv29.mp4](schrodinger_3dv29.mp4)
+- ![Schrodinger 3D](schrodinger_3D.gif)
 
 📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A.pdf](Schrodinger3D2A.pdf)
 
+#Sphere Dynamics 
+- ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif)
+  
 ## Oscillatory Systems
 ### Sine and Cosine Oscillations
 Visualization of harmonic functions \(\sin(x+t)\) and \(\cos(x+t)\), demonstrating periodic motion.  

@@ -30,6 +30,7 @@ This section solves root-finding problems from Chapter 2 of Prof. Castilho's lec
   - `birthday_quantum_flower_v9.py`
 - **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
 - **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
+- **Visualizations**:![Quantum Flower](flor_quantum.gif)
 
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:

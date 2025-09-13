@@ -58,7 +58,8 @@ This project blends science, art, and aesthetic sensitivity into a single dynami
 📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A.pdf](Schrodinger3D2A.pdf)
 
 #Sphere Dynamics 
-- ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif)
+- **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
+- **Visualization**: ![Sabana Gaussiana Quântica](sabana_gaussiana02.gif)  In a world of uncertainty, even the wave rests on a savanna of probabilities. This is the quantum dance of the universe: subtle, undulating, and profoundly beautiful.
   
 ## Oscillatory Systems
 ### Sine and Cosine Oscillations

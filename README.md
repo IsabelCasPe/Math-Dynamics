@@ -15,7 +15,7 @@ This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturi
 🎬 Watch the animation:  [Tesla 3D Animation](campo_eletromagnetico_tesla_3d_vibes.mp4)  
 -![Tesla 3D Animation](campo_eletromagnetico_tesla.gif)
  
-📄 Presentation PDF: [`NikolaTesla.pdf`](NikolaTesla.pdf)  
+📄 Presentation PDF: [NikolaTesla PDF](NikolaTesla.pdf)  
 © 2025 – Original project by Ana Isabel C. – Math Dynamics  
 All rights reserved. Sharing only with proper credits. 
 # Site: https://github.com/IsabelCasPe/Math-Dynamics.git
@@ -31,13 +31,14 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 3. Twinkling background stars for a cosmic touch.
    
 (Fun fact: mathematicians took decades (and many martinis 🍸) to tame this fractal beast… here it’s simulated in about an hour of coding. 👾) @IsabelCasPe 💃 💙
-- [Hofstadter Butterfly](Hofstadter.pdf) 
+- [Hofstadter Butterfly PDF](Hofstadter.pdf) 
 - **Visualizations**: ![Hofstadter Butterfly ](hofstadter_butterflyy.gif)
 [Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/?fbclid=IwY2xjawM0VdpleHRuA2FlbQIxMABicmlkETFJWE1Ha0VXSFlUcWp1NTVjAR4r9yNok6Pm56aBHpIcVSQDlpOy4VdFBbFE5Xe0RVdwHeok31XJmH3U1WJWlg_aem_jHOuBw8h_CCOm5Itp7KQ1w)
 
 # Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 - **Python Codes**:
-- #Sphere Dynamics 
+- #Sphere Dynamics
+- [Quantum Sphere PDF](esferaquanticadf.pdf)
 - **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
 ---
 ## Birthday Celebration: Quantum Flower of Life
@@ -48,11 +49,11 @@ The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and
 - **Base**: Oscillating 3D base (*Sábana Gaussiana*) in *cosmicgray* , defined by \( z = 0.1 \sin(2\pi (x + y)/5 - t/20) \).
 - **Connection to QFE**: Inspired by the Anderson model and nonlinear dynamics in financial chaos (e.g., GOLL4.SA).
 
-The LaTeX presentation ([flordavida.pdf](flordavida.pdf)) provides a rigorous mathematical foundation.
+The LaTeX presentation [flordavida PDF](flordavida.pdf) provides a rigorous mathematical foundation.
 
   - `birthday_quantum_flower_v9.py`
 - **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
-- **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
+- **Presentation**: [Quantum Flower of Life PDF](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
 - **Visualizations**:![Quantum Flower](flor_quantum.gif)
 For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) 
 
@@ -69,7 +70,7 @@ This project blends science, art, and aesthetic sensitivity into a single dynami
 🎞️ schrodinger_3dv29.mp4: Full animation of a golden quantum particle dancing through the 3D quantum field. [schrodinger_3dv29.mp4](schrodinger_3dv29.mp4)
 - ![Schrodinger 3D](schrodinger_3D.gif)
 
-📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A.pdf](Schrodinger3D2A.pdf)
+📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A PDF](Schrodinger3D2A.pdf)
 
 ## Sabana Gaussiana Quântica: 
 - **Visualization**: ![Sabana Gaussiana Quântica](sabana_gaussiana02.gif)  In a world of uncertainty, even the wave rests on a savanna of probabilities. This is the quantum dance of the universe: subtle, undulating, and profoundly beautiful.
@@ -128,26 +129,26 @@ Discrete chaotic system generating dense orbits in a confined region.
 - **Hénon Map 3D**: Fractal chaos with two trajectories.
   - **GIF**: ![henon_salsa_fractal.gif](henon_salsa_fractal.gif)
   - **Video**: [henon_salsa_fractal.mp4](henon_salsa_fractal.mp4)
-  - **Documentation**: [Henon2.pdf](Henon2.pdf)
+  - **Documentation**: [Henon2 PDF](Henon2.pdf)
   - **Code**: [henon_salsa_fractal.py](henon_salsa_fractal.py)
 
 ### Rössler Attractor
 Continuous chaotic system with dense spiral trajectories.  
 - **Specifications**: `a=0.2`, `b=0.2`, `c=7.0`; 20,000 points; `odeint` integration.  
 - **Visualization**: ![rossler.gif](rossler.gif), ![rossler_2_spiral.gif](rossler_2_spiral.gif)
-- **Documentation**: [Rossler1.pdf](Rossler1.pdf)
+- **Documentation**: [Rossler1 PDF](Rossler1.pdf)
 - **Description**: System defined by \(\dot{x} = -y-z\), \(\dot{y} = x + a y\), \(\dot{z} = b + z(x-c)\).
 
 ### Quasiperiodic Toro
 Three-dimensional quasiperiodic flow on a torus, exhibiting non-repeating orbits.  
 - **Specifications**: Incommensurate frequencies; Matplotlib 3D animation.  
 - **Visualization**: ![quasiperiodic_salsa_celeste.gif](quasiperiodic_salsa_celeste.gif)  
-- **Documentation**: [quaseperiodicotoro.pdf](quaseperiodicotoro.pdf)  
+- **Documentation**: [quaseperiodicotoro PDF](quaseperiodicotoro.pdf)  
 - **Description**: Trajectories on a toroidal manifold.
 
 - **Double Pendulum**: Chaotic dynamics simulation.
 - **GIF**: ![pendulo.gif](pendulo.gif)
-- **Documentation**: [Penduloduplo.pdf](Penduloduplo.pdf)
+- **Documentation**: [Penduloduplo PDF](Penduloduplo.pdf)
 - **Code**: [pendulo_duplo.py](PenduloDuplo/pendulo_duplo.py)
 
 ## Financial Models
@@ -202,7 +203,7 @@ Visualization of numerical solutions using the Euler method for differential equ
 Optimal control visualization for a dynamic system, minimizing a quadratic cost.  
 - **Specifications**: Matplotlib animation of state trajectories.  
 - **Visualization**: ![loki_vs_rival_com_equacao.gif](loki_vs_rival_com_equacao.gif)
-- **Documentation**: [LQRLoki.pdf](LQRLoki.pdf) 
+- **Documentation**: [LQRLoki PDF](LQRLoki.pdf) 
 - **Description**: Control law derived from Riccati equation solutions.
 
 ## Usage

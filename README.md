@@ -20,17 +20,23 @@ This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturi
 All rights reserved. Sharing only with proper credits. 
 # Site: https://github.com/IsabelCasPe/Math-Dynamics.git
 
-# Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
-For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters! ;) Explore the chaos and beauty of *Finance Math*!
+## Hofstadter Butterfly 
+🍸After 10 martinis and a quantum freakout, Hofstadter's Butterfly danced on the screen! 🦋 Buggy or brilliant, it went from the chaos of Harper's equation (1974) straight to GIF. 👾 Hacked Python code, twinkling stars, and me pretending I mastered physics in 1 hour! 😛 @IsabelCasPe 💃 💙
+- **Visualizations**: ![Hofstadter Butterfly ](hofstadter_butterflyy.gif)
+[Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250812/)
 
-## Chapter 2: Roots of Functions
-This section solves root-finding problems from Chapter 2 of Prof. Castilho's lecture notes, with Python implementations and visualizations.
-  - [Ex. 2.8](sincos_root.png)
+# Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 - **Python Codes**:
   - `birthday_quantum_flower_v9.py`
 - **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
 - **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
 - **Visualizations**:![Quantum Flower](flor_quantum.gif)
+For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters! ;) Explore the chaos and beauty of *Finance Math*!
+
+## Chapter 2: Roots of Functions
+This section solves root-finding problems from Chapter 2 of Prof. Castilho's lecture notes, with Python implementations and visualizations.
+  - [Ex. 2.8](sincos_root.png)
+
 
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:

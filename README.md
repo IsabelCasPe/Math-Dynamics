@@ -31,12 +31,7 @@ All rights reserved. Sharing only with proper credits.
 - **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
 - **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
 - **Visualizations**:![Quantum Flower](flor_quantum.gif)
-For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) from Chapter 2. Loki, my cat, throws shade at the haters! ;) Explore the chaos and beauty of *Finance Math*!
-
-## Chapter 2: Roots of Functions
-This section solves root-finding problems from Chapter 2 of Prof. Castilho's lecture notes, with Python implementations and visualizations.
-  - [Ex. 2.8](sincos_root.png)
-
+For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) 
 
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:

@@ -23,7 +23,7 @@ All rights reserved. Sharing only with proper credits.
 ## Hofstadter Butterfly 
 🍸After 10 martinis and a quantum freakout, Hofstadter's Butterfly danced on the screen! 🦋 Buggy or brilliant, it went from the chaos of Harper's equation (1974) straight to GIF. 👾 Hacked Python code, twinkling stars, and me pretending I mastered physics in 1 hour! 😛 @IsabelCasPe 💃 💙
 - **Visualizations**: ![Hofstadter Butterfly ](hofstadter_butterflyy.gif)
-[Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250812/)
+[Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/?fbclid=IwY2xjawM0VdpleHRuA2FlbQIxMABicmlkETFJWE1Ha0VXSFlUcWp1NTVjAR4r9yNok6Pm56aBHpIcVSQDlpOy4VdFBbFE5Xe0RVdwHeok31XJmH3U1WJWlg_aem_jHOuBw8h_CCOm5Itp7KQ1w)
 
 # Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 - **Python Codes**:

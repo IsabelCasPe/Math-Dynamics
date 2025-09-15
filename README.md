@@ -28,19 +28,17 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 # ✨ Features:
 1. Implementation of Harper’s tight-binding model
 2. Animation of the fractal spectrum building “bottom-up”
-3. Twinkling background stars for a cosmic touch
+3. Twinkling background stars for a cosmic touch.
+   
 (Fun fact: mathematicians took decades (and many martinis 🍸) to tame this fractal beast… here it’s simulated in about an hour of coding. 👾) @IsabelCasPe 💃 💙
 - **Visualizations**: ![Hofstadter Butterfly ](hofstadter_butterflyy.gif)
 [Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/?fbclid=IwY2xjawM0VdpleHRuA2FlbQIxMABicmlkETFJWE1Ha0VXSFlUcWp1NTVjAR4r9yNok6Pm56aBHpIcVSQDlpOy4VdFBbFE5Xe0RVdwHeok31XJmH3U1WJWlg_aem_jHOuBw8h_CCOm5Itp7KQ1w)
 
 # Math-Dynamics: Quantum Sphere Dynamics & Numerical Calculus
 - **Python Codes**:
-  - `birthday_quantum_flower_v9.py`
-- **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
-- **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
-- **Visualizations**:![Quantum Flower](flor_quantum.gif)
-For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) 
-
+- #Sphere Dynamics 
+- **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
+---
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:
 - **Surface**: Defined by \( z = g \cdot p \cdot \sin(6\theta) \cos(3r) \), with organic growth \( g = \min(1.5, t/50) \cdot e^{-0.5 r^2} \) and pulsing petals \( p = 1.2 + 0.7 \sin(t/20) \).
@@ -50,6 +48,12 @@ The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and
 - **Connection to QFE**: Inspired by the Anderson model and nonlinear dynamics in financial chaos (e.g., GOLL4.SA).
 
 The LaTeX presentation ([flordavida.pdf](flordavida.pdf)) provides a rigorous mathematical foundation.
+
+  - `birthday_quantum_flower_v9.py`
+- **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
+- **Presentation**: [Quantum Flower of Life](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
+- **Visualizations**:![Quantum Flower](flor_quantum.gif)
+For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) 
 
 ## Acknowledgments
 - To Loki, for throwing shade at the haters © Ana Isabel Castillo & Loki, 2025
@@ -66,8 +70,7 @@ This project blends science, art, and aesthetic sensitivity into a single dynami
 
 📄 Schrodinger3D2A.pdf: LaTeX Beamer presentation describing the simulation and its mathematical–visual connections. [Schrodinger3D2A.pdf](Schrodinger3D2A.pdf)
 
-#Sphere Dynamics 
-- **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
+## Sabana Gaussiana Quântica: 
 - **Visualization**: ![Sabana Gaussiana Quântica](sabana_gaussiana02.gif)  In a world of uncertainty, even the wave rests on a savanna of probabilities. This is the quantum dance of the universe: subtle, undulating, and profoundly beautiful.
   
 ## Oscillatory Systems

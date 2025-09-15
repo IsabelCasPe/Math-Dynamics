@@ -31,6 +31,7 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 3. Twinkling background stars for a cosmic touch.
    
 (Fun fact: mathematicians took decades (and many martinis 🍸) to tame this fractal beast… here it’s simulated in about an hour of coding. 👾) @IsabelCasPe 💃 💙
+- [Hofstadter Butterfly](Hofstadter.pdf) 
 - **Visualizations**: ![Hofstadter Butterfly ](hofstadter_butterflyy.gif)
 [Read more at Quanta Magazine](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/?fbclid=IwY2xjawM0VdpleHRuA2FlbQIxMABicmlkETFJWE1Ha0VXSFlUcWp1NTVjAR4r9yNok6Pm56aBHpIcVSQDlpOy4VdFBbFE5Xe0RVdwHeok31XJmH3U1WJWlg_aem_jHOuBw8h_CCOm5Itp7KQ1w)
 

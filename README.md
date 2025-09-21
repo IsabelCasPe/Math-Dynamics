@@ -219,8 +219,8 @@ Optimal control visualization for a dynamic system, minimizing a quadratic cost.
 Suggestions for new dynamic systems or visualization techniques are welcome. Contact the author for collaboration or additional materials.
 
 ----
+## Inspiration: 
 
-
-**"No caos dos números, a dança do universo revela sua harmonia infinita — Math Dynamics, onde a ciência e a zoeira se encontram!"** 
-     © Copyright. 💙 
+> **"No caos dos números, a dança do universo revela sua harmonia infinita — Math Dynamics, ciência em movimento, onde a ciência encontra sua própria música."** 
+>     © Copyright. 💙 
 

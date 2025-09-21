@@ -221,6 +221,6 @@ Suggestions for new dynamic systems or visualization techniques are welcome. Con
 ----
 ## Inspiration: 
 
-> **"No caos dos números, a dança do universo revela sua harmonia infinita — Math Dynamics, ciência em movimento, onde a ciência encontra sua própria música."** 
+> **"No caos dos números, a dança do universo revela sua harmonia infinita @MathDynamics, ciência em movimento, onde a ciência encontra sua própria música."** 
 >     © Copyright. 💙 
 

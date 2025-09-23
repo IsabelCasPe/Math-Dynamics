@@ -1,4 +1,15 @@
-# Math-Dynamics
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎🌀♾️🌌 ✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
 # ⚡ Tesla 3D Electromagnetic Field – Visual Tribute
@@ -223,4 +234,10 @@ Suggestions for new dynamic systems or visualization techniques are welcome. Con
 
 > **"In the chaos of numbers, the universe’s dance reveals its infinite harmony - @MathDynamics, science in motion, where science finds its own music."** 🌐
 >     © Copyright. 💙 
+---
+## Instalação · Installation · Instalación
+```bash
 
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python main.py

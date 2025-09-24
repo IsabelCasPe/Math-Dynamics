@@ -1,5 +1,5 @@
 <!-- HERO -->
-# Arte & Ciência em Movimento — Matemática Viva 💎🌀♾️🌌 ✨
+# Art & Science in Motion - Living Mathematics 💎🌀♾️🌌 ✨
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)

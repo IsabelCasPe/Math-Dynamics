@@ -224,7 +224,7 @@ Optimal control visualization for a dynamic system, minimizing a quadratic cost.
 - Visualizations are implemented in Python with Matplotlib and SciPy.
 
 ## License
-© Ana Isabel Castillo, Math-Dynamics. Licensed under [CC BY-NC-ND 4.0](LICENSE.md).
+© Prof. Ana Isabel Castillo, Math-Dynamics. Licensed under [CC BY-NC-ND 4.0](LICENSE.md).
 
 ## Contributions
 Suggestions for new dynamic systems or visualization techniques are welcome. Contact the author for collaboration or additional materials.
@@ -233,7 +233,7 @@ Suggestions for new dynamic systems or visualization techniques are welcome. Con
 ## Inspiration: 
 
 > **"In the chaos of numbers, the universe’s dance reveals its infinite harmony - @MathDynamics, science in motion, where science finds its own music."** 🌐
->     © Copyright. 💙 
+>     © Copyright. Prof. Ana Isabel Castillo 💙 
 ---
 ## Instalação · Installation · Instalación
 ```bash

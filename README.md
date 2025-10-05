@@ -237,6 +237,15 @@ Suggestions for new dynamic systems or visualization techniques are welcome. Con
 >     © Copyright. Prof. Ana Isabel Castillo 💙 
 ---
 ## Instalação · Installation · Instalación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
+</p>
+
+<p align="center">
+  <sub><b>@IsabelCasPe</b> 💙✨ — <i>Cosmos em código: ciência que vira arte.</i> 💎♾️</sub>
+</p>
+
 ```bash
 
 python -m venv .venv && source .venv/bin/activate

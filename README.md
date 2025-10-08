@@ -218,7 +218,12 @@ Optimal control visualization for a dynamic system, minimizing a quadratic cost.
 - **Visualization**: ![loki_vs_rival_com_equacao.gif](loki_vs_rival_com_equacao.gif)
 - **Documentation**: [LQRLoki PDF](LQRLoki.pdf) 
 - **Description**: Control law derived from Riccati equation solutions.
+---
 
+## Henri Poincaré (1854–1912) foi um matemático, físico e filósofo francês. Criou a topologia algébrica e formulou a Conjectura de Poincaré, um dos Problemas do Milênio, resolvido apenas em 2006. ♾️💎
+-![Poincaré Intuição](poincare01.png)
+
+---
 ## Usage
 - View GIFs for looped animations directly in the browser.
 - Source codes and additional documentation available upon request for academic purposes.

@@ -53,6 +53,11 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 - [Quantum Sphere PDF](esferaquanticadf.pdf)
 - **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
 ---
+## Sólido de Revolução. 
+- ![🪩 Volume Quântico — entre curvas e possibilidades 🪩](Volume_quant01.gif)
+
+---
+
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:
 - **Surface**: Defined by \( z = g \cdot p \cdot \sin(6\theta) \cos(3r) \), with organic growth \( g = \min(1.5, t/50) \cdot e^{-0.5 r^2} \) and pulsing petals \( p = 1.2 + 0.7 \sin(t/20) \).

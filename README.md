@@ -60,8 +60,14 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 ## Da série dos absurdos, meu cilindro quântico!
 O volume exato desse cilindro giram meus dados🎲.  Estatística limpa, Machine Learning prevê, Sistemas Dinâmicos bota o caos, e Finanças Quânticas fecha com risco sistêmico. 😎
 - ![Cilindro Quantum](cilindro_quantum_v3.gif)
-- 
+  
 ---
+
+## Toro Quântico: Uma superfície 3D que pulsa em harmonia — oito partículas orbitam em sincronia, revelando proporções, ritmos e caos sob forma matemática.
+Cada curva é uma dança entre simetria e imprevisibilidade: a beleza das dinâmicas não-lineares em plena rotação. 
+- ![Toro](torus_dynamicsV4.gif)
+
+---  
 
 ## Birthday Celebration: Quantum Flower of Life
 The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and resilience in the chaotic world of *Finance Math*. Key features:

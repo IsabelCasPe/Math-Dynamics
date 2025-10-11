@@ -53,9 +53,14 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 - [Quantum Sphere PDF](esferaquanticadf.pdf)
 - **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
 ---
-## Sólido de Revolução. 
+## Sólido de Revolução. 🪩
 - ![🪩 Volume Quântico — entre curvas e possibilidades 🪩](Volume_quant01.gif)
 
+---
+## Da série dos absurdos, meu cilindro quântico!
+O volume exato desse cilindro giram meus dados🎲.  Estatística limpa, Machine Learning prevê, Sistemas Dinâmicos bota o caos, e Finanças Quânticas fecha com risco sistêmico. 😎
+- ![Cilindro Quantum](cilindro_quantum_v3.gif)
+- 
 ---
 
 ## Birthday Celebration: Quantum Flower of Life

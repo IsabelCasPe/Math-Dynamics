@@ -13,6 +13,18 @@
 ## Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
+## 🚀 Quantum Trip — Earth → Mars 🌌  
+
+**Elon chegou a Marte com @IsabelCasPe – Quantum Maths!**  
+Trajetória suave de transferência, aceleração a 1 g, flare rosa-neon e o Loki reinando nas estrelas.  
+💫 *Matemática em movimento: curvas, ritmo e precisão.*
+
+![Mars Orbit Trip](https://github.com/IsabelCasPe/Math-Dynamics/blob/main/mars_orbit_trip.gif)
+
+> “Entre o caos e a harmonia, até as órbitas dançam em simetria.” — *@IsabelCasPe*
+--- 
+
+
 # ⚡ Tesla 3D Electromagnetic Field – Visual Tribute
 
 > “Yesterday (07/07/25), the YouTube algorithm gifted me with a revealing interview about the genius Nikola Tesla.  

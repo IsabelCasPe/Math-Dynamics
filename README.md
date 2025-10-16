@@ -13,6 +13,12 @@
 ## Math-Dynamics
 A collection of visualizations exploring the behavior of dynamic systems, chaotic attractors, and financial models, implemented in Python with Matplotlib and SciPy.  inspired by fractal aesthetics and mathematical harmony. Authored by Ana Isabel Castillo, PhD in Applied Mathematics. 
 
+## Quantum Cube 
+
+- ![Cubo](quantum_cube.gif)
+
+---  
+
 ## 🚀 Quantum Trip — Earth → Mars 🌌  
 
 **Elon chegou a Marte com @IsabelCasPe – Quantum Maths!**  

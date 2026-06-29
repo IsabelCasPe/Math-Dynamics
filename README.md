@@ -21,15 +21,15 @@ A collection of visualizations exploring the behavior of dynamic systems, chaoti
 
 ---  
 
-## 🚀 Quantum Trip — Earth → Mars 🌌  
+## 🚀 Quantum Trip - Earth → Mars 🌌  
 
-**Elon chegou a Marte com @IsabelCasPe – Quantum Maths!**  
+**Elon chegou a Marte com @IsabelCasPe - Quantum Maths!**  
 Trajetória suave de transferência, aceleração a 1 g, flare rosa-neon e o Loki reinando nas estrelas.  
 💫 *Matemática em movimento: curvas, ritmo e precisão.*
 
 ![Mars Orbit Trip](https://github.com/IsabelCasPe/Math-Dynamics/blob/main/mars_orbit_trip.gif)
 
-> “Entre o caos e a harmonia, até as órbitas dançam em simetria.” — *@IsabelCasPe*
+> “Entre o caos e a harmonia, até as órbitas dançam em simetria.” - *@IsabelCasPe*
 --- 
 
 
@@ -39,7 +39,7 @@ Trajetória suave de transferência, aceleração a 1 g, flare rosa-neon e o Lok
 > I was captivated… and ideas flowed like electricity in the air.  
 > Thus, this tribute was born: a creative spark that ignited, echoing Tesla’s vision that lit up the world.  
 > His boldness inspired me to transform energy and frequency into visual art.”  
-> — **Isabel  – Math Dynamics✨**
+> — **Isabel - Math Dynamics✨**
 
 ## 🎥 Project
 This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturing pulsating electromagnetic fields with zeta-shaped rays rising and falling like cones, evoking his genius in alternating current and wireless energy transmission. Created with Python and Matplotlib, the project blends science and visual art, featuring a vortex spiral and a subtle base tremor to reflect Tesla’s creative instability.
@@ -74,7 +74,7 @@ This project reproduces a visualization of the butterfly using Python + NumPy + 
 - **Visualization**: ![Sphere Dynamics](sphere_dynamics_ladrilhos.gif) 1521 squares dance in spectral, building a 3D sphere with the elegance of Laplace's equation
 ---
 ## Sólido de Revolução. 🪩
-- ![🪩 Volume Quântico — entre curvas e possibilidades 🪩](Volume_quant01.gif)
+- ![🪩 Volume Quântico - entre curvas e possibilidades 🪩](Volume_quant01.gif)
 
 ---
 ## Da série dos absurdos, meu cilindro quântico!
@@ -109,7 +109,7 @@ For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D 
 - To Loki, for throwing shade at the haters © Ana Isabel Castillo & Loki, 2025
 - To the *Math-Dynamics* community for the vibrant support!
 
-# Schrödinger 3D – Math-Dynamics 🎥✨
+# Schrödinger 3D - Math-Dynamics 🎥✨
 
 Interactive and artistic visualization of the 3D Schrödinger equation with a quasi-periodic potential, inspired by just 10 minutes of a lecture.
 This project blends science, art, and aesthetic sensitivity into a single dynamic flow.

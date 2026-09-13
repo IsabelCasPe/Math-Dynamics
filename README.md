@@ -1,6 +1,6 @@
 <!-- HERO -->
 # Art & Science in Motion - Living Mathematics 💎🌀♾️🌌 ✨
-![Applied Mathematics & Structured Teaching — Happy 2026](https://img.shields.io/badge/Happy-2026-gold)
+![Applied Mathematics & Structured Teaching - Happy 2026](https://img.shields.io/badge/Happy-2026-gold)
 
 [![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
@@ -38,7 +38,7 @@ Trajetória suave de transferência, aceleração a 1 g, flare rosa-neon e o Lok
 --- 
 
 
-# ⚡ Tesla 3D Electromagnetic Field – Visual Tribute
+# ⚡ Tesla 3D Electromagnetic Field - Visual Tribute
 
 > “Yesterday (07/07/25), the YouTube algorithm gifted me with a revealing interview about the genius Nikola Tesla.  
 > I was captivated… and ideas flowed like electricity in the air.  
@@ -53,7 +53,7 @@ This is a 3D simulator inspired by Nikola Tesla’s revolutionary ideas, capturi
 -![Tesla 3D Animation](campo_eletromagnetico_tesla.gif)
  
 📄 Presentation: [NikolaTesla PDF](NikolaTesla.pdf)  
-© 2025 – Original project by Ana Isabel C. – Math Dynamics  
+© 2025 - Original project by Ana Isabel C. - Math Dynamics  
 All rights reserved. Sharing only with proper credits. 
 # Site: https://github.com/IsabelCasPe/Math-Dynamics.git
 
@@ -88,7 +88,7 @@ O volume exato desse cilindro giram meus dados🎲.  Estatística limpa, Machine
   
 ---
 
-## Toro Quântico: Uma superfície 3D que pulsa em harmonia — oito partículas orbitam em sincronia, revelando proporções, ritmos e caos sob forma matemática.
+## Toro Quântico: Uma superfície 3D que pulsa em harmonia - oito partículas orbitam em sincronia, revelando proporções, ritmos e caos sob forma matemática.
 Cada curva é uma dança entre simetria e imprevisibilidade: a beleza das dinâmicas não-lineares em plena rotação. 
 - ![Toro](torus_dynamicsV4.gif)
 
@@ -105,8 +105,8 @@ The **Quantum Flower of Life** is a 3D visualization celebrating my birthday and
 The LaTeX presentation [flordavida PDF](flordavida.pdf) provides a rigorous mathematical foundation.
 
   - `birthday_quantum_flower_v9.py`
-- **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) – Updated animation with enhanced dynamics.
-- **Presentation**: [Quantum Flower of Life PDF](flordavida.pdf) – LaTeX slides detailing the mathematical formulation.
+- **Video**: [Quantum Flower of Life v9](birthday_quantum_flower_v9.mp4) - Updated animation with enhanced dynamics.
+- **Presentation**: [Quantum Flower of Life PDF](flordavida.pdf) - LaTeX slides detailing the mathematical formulation.
 - **Visualizations**:![Quantum Flower](flor_quantum.gif)
 For my birthday on July 4, 2025, I present the **Quantum Flower of Life**: a 3D visualization with 1156 Spectral grid points, blooming petals, radiant white stars, and the root \( x \approx 0.9166 \) 
 
@@ -289,7 +289,7 @@ Suggestions for new dynamic systems or visualization techniques are welcome. Con
 </p>
 
 <p align="center">
-  <sub><b>@IsabelCasPe</b> 💙✨ — <i>Cosmos em código: ciência que vira arte.</i> 💎♾️</sub>
+  <sub><b>@IsabelCasPe</b> 💙✨ - <i>Cosmos em código: ciência que vira arte.</i> 💎♾️</sub>
 </p>
 
 ```bash
